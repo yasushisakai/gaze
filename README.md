@@ -1,9 +1,9 @@
 # Gaze
 yet another alternative to read color coded lego bricks
 
-![The Conjurer](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hieronymus_Bosch_051.jpg/721px-Hieronymus_Bosch_051.jpg)
+![The Conjurer](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hieronymus_Bosch_051.jpg/924px-Hieronymus_Bosch_051.jpg)
 
-image taken from wikipedia
+*The Conjurer* by Hieronymus Bosch, image taken from [wikipedia](https://en.wikipedia.org/wiki/The_Conjurer_(painting))
 
 
 ## some considerations before we start
